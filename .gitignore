@@ -1,4 +1,5 @@
 *.class
+dist
 .git
 .gradle
 build
